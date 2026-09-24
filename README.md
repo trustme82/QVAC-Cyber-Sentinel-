@@ -29,6 +29,7 @@ Sending terminal logs to cloud-based LLM APIs exposes sensitive infrastructure t
 ## What's inside
 
 qvac-cyber-sentinel/
+
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
